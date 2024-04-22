@@ -1,4 +1,4 @@
-# Student_Marks-_Analysis_Project
+# Student_Marks_Analysis_Project
 
 
 # Gender Distribution:
